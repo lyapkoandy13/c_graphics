@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "shader.h": "c",
+    "istream": "c"
+  }
+}
