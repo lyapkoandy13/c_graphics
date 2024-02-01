@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/andrewlyapko/dev/cpp_project",
-      "program": "/Users/andrewlyapko/dev/cpp_project/build/main",
+      "cwd": "${workspaceFolder}",
+      "program": "${workspaceFolder}/build/main",
       "preLaunchTask": "build"
     }
   ]
