@@ -2,10 +2,7 @@
   "configurations": [
     {
       "name": "macos-clang-arm64",
-      "includePath": [
-        "${workspaceFolder}/**",
-        "${workspaceFolder}/vendor/include/**/*"
-      ],
+      "includePath": ["${workspaceFolder}/**"],
       "compilerPath": "/usr/bin/clang",
       "cStandard": "${default}",
       "cppStandard": "${default}",
